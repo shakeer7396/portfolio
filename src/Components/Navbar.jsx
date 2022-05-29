@@ -48,7 +48,14 @@ export const Navbar = () => {
             Blog
           </a>
         </div>
-        
+        <div
+          onClick={() => {
+            setIsPage("Contact");
+          }}
+          style={isPage === "Contact" ? { color: "black" } : null}
+        >
+          <Link to="/contact">Contact</Link>
+        </div>
       </div>
     </div>
   );

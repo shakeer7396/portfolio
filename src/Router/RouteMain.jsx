@@ -3,6 +3,7 @@ import About from "../Components/About/About";
 import Hero from "../Components/Hero/Hero";
 import Skills from "../Components/Skills/Skills";
 import Projects from "../Components/Projects/Projects.jsx";
+import Contact from "../Components/Contact/Contact";
 
 export function RouteMain() {
   return (
@@ -19,6 +20,9 @@ export function RouteMain() {
         </Route>
         <Route path="/about-me">
           <About />
+        </Route>
+        <Route path="/contact">
+          <Contact />
         </Route>
         <Route>
           <h1 style={{ textAlign: "center" }}>404 Not Found</h1>
