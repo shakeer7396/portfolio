@@ -9,7 +9,7 @@ function Contact() {
    
    
       <u><h1>Contact</h1></u>
-      <h1 className="name">Shaik <span style={{color:'orange'}}>Shakeer</span> </h1>
+      <h1 className="name">Shaik <span style={{color:'darkblue'}}>Shakeer</span> </h1>
       <div className="contacts">
      <div className="linkedin">
      
