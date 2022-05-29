@@ -19,10 +19,10 @@ Portfolio : https://shakeerportfolio.vercel.app/
 <img width="600px" src="https://github.com/shakeer7396/portfolio/blob/main/public/images/front%20page1.jpg?raw=true"/>
 
 #### Projects Page
-<img width="600px" src="https://user-images.githubusercontent.com/86405837/139438532-38cbb1f6-8a59-4af0-8ea7-6b875dfaa654.png"/>
+<img width="600px" src="https://github.com/shakeer7396/portfolio/blob/main/public/images/profile%20page2.jpg?raw=true"/>
 
 #### About Page
-<img width="600px" src="https://user-images.githubusercontent.com/86405837/139438534-7d03744b-311f-4aad-aa23-3c607192529a.png"/>
+<img width="600px" src="https://github.com/shakeer7396/portfolio/blob/main/public/images/about%20page3.jpg?raw=true"/>
 
 #### Skills Page
 <img width="600px" src="https://user-images.githubusercontent.com/86405837/139438537-4e117232-1ba1-49b4-bb7b-4dfa394f734a.png"/>
