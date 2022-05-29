@@ -43,7 +43,7 @@ function Hero() {
           <HeroRight>
             <Avatar
               alt="Remy Sharp"
-              src="/images/avatar.jpeg"
+              src="/images/avatar.jpg"
               sx={{ width: 300, height: 300 }}
             />
           </HeroRight>

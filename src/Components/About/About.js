@@ -26,7 +26,7 @@ function About() {
           <Image>
             <Avatar
               alt="Remy Sharp"
-              src="/images/avatar.jpeg"
+              src="/images/avatar.jpg"
               sx={{ width: 150, height: 150 }}
             />
           </Image>

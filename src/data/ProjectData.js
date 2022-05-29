@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "/images/vedix.jpg",
     title: "Vedix Clone",
     description:
-      "A web application for Skin &Hair oils for better result.",
+      "A web application for buying & selling of Skin & Hair oil products.",
     tech_stack: "React, Css, Javascript, Api",
     github_url: "https://github.com/bigyanKumar/vedix.com",
     demo_url: "https://gleeful-kleicha-1a7fde.netlify.app/",
@@ -13,20 +13,20 @@ export const ProjectList = [
     img: "/images/Rodan.jpeg",
     title: "RODAN+FIELDS Clone",
     description:
-      "A web application of one shop to buy any type of skin creams and packs.",
+      "A web application to buy any type of skin creams and skin products.",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/shubhamvts6/Rodan-Fields-clone",
     demo_url:
       "https://rodanandfieldclone.netlify.app/index.html",
   },
-  // {
-  //   img: "/images/oyo.png",
-  //   title: "OyoRooms",
-  //   description: "An end to end clone of oyorooms.com wich can book hotel rooms across India",
-  //   tech_stack: "React, Css, Javascript, figma",
-  //   github_url: "https://albartjose.hashnode.dev/",
-  //   demo_url: "https://albartjose.hashnode.dev/",
-  // },
+  {
+    img: "/images/pham easy.jpg",
+    title: "Pharmeasy",
+    description: "An end to end clone of pharmeasy.com medicine and fitness products best-selling app",
+    tech_stack: "Html, Css, Javascript,React,Redux,Libraries,Api ",
+    github_url: "https://github.com/ahmadparvej/pharmeasy-clone",
+    demo_url: "https://relaxed-faloodeh-4bff55.netlify.app/",
+  },
   // {
   //   img: "/images/oyo.png",
   //   title: "OyoRooms",

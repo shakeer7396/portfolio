@@ -40,13 +40,13 @@ export const Navbar = () => {
           <Link to="/skills">Skills</Link>
         </div>
         <div>
-          {/* <a
-            href="https://albartjose.hashnode.dev/"
+          <a
+            href="https://medium.com/@shakeer043/e-commerce-product-selling-website-clone-eb4a3451d06b"
             rel="noreferrer"
             target="_blank"
           >
             Blog
-          </a> */}
+          </a>
         </div>
         
       </div>
