@@ -45,7 +45,7 @@ i:hover{
     color:blue;
 }
 p{
-    color:darkblue;
+    color:blue;
 }
 
 
