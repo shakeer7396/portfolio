@@ -41,15 +41,15 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
+    img: "https://cdn-icons-png.flaticon.com/128/174/174854.png",
     name: "HTML",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/css3.svg",
+    img: "https://cdn-icons-png.flaticon.com/128/5968/5968242.png",
     name: "CSS",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
+    img: "https://cdn-icons-png.flaticon.com/128/5968/5968292.png",
     name: "JavaScript",
   },
   {
@@ -66,7 +66,7 @@ export const stackList = [
   },
 
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/git.svg",
+    img: "https://cdn-icons-png.flaticon.com/128/733/733609.png",
     name: "Git",
   },
   {
