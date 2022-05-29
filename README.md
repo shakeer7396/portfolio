@@ -2,7 +2,7 @@
 A simple Portfolio made using React. it introduces the various projects I have done, along with my contact details and my skills
 
 </br>
-Portfolio : https://albartjose.vercel.app/
+Portfolio : https://shakeerportfolio.vercel.app/
 
 <hr/>
 <h3>Languages Used</h3>
