@@ -45,7 +45,7 @@ i:hover{
     color:blue;
 }
 p{
-    color:rgb(210,77,87);
+    color:darkblue;
 }
 
 
