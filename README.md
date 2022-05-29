@@ -16,7 +16,7 @@ Portfolio : https://shakeerportfolio.vercel.app/
 
 ## Sneak Peak
 #### Home Page
-<img width="600px" src="front port.jpg"/>
+<img width="600px" src="front page1.jpg"/>
 
 #### Projects Page
 <img width="600px" src="portfolio project p.jpg"/>
