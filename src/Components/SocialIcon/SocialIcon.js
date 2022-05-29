@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub,AiOutlineMail } from "react-icons/fa";
 
 import styled from "styled-components";
 
@@ -53,6 +53,15 @@ function SocialIcon() {
             <FaGithub />
           </a>
         </li>
+        {/* <li className="item">
+          <a
+            href="shaikshakeerss123@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <AiOutlineMail />
+          </a>
+        </li> */}
       </ul>
     </SocialDiv>
   );

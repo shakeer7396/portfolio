@@ -30,13 +30,13 @@ function Hero() {
                 Resume
               </Link>
             </div>
-            {/* <div className="download">
+            <div className="download">
               <a href={`mailto:shaikshakeerss123@gmail.com`}>
                 <span type='button' className='btn btn--outline'>
                   Email me
                 </span>
               </a>
-            </div> */}
+            </div>
 
             <SocialIcon />
           </HeroLeft>
