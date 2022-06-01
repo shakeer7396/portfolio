@@ -11,6 +11,10 @@ export function RouteMain() {
       <Switch>
         <Route path="/" exact>
           <Hero />
+          <About />
+          <Skills />
+          <Projects />
+          <Contact />
         </Route>
         <Route path="/projects">
           <Projects />
