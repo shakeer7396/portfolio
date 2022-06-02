@@ -17,7 +17,7 @@ export function RouteMain() {
           <Contact />
         </Route>
         <Route path="/projects">
-      <Route path="/" ></Route>
+     
           <Projects />
           
         </Route>

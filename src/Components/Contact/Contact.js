@@ -14,7 +14,7 @@ function Contact() {
      <div className="linkedin">
      
      <a href="https://www.linkedin.com/in/shaik-shakeer-aa8965236/"><i class="fab fa-linkedin"></i></a>
-         <p>liked in</p>
+         <p>linkedin</p>
      </div>
 
      <div className="email">

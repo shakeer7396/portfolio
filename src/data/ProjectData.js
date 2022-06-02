@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "Vedix Clone",
     description:
       "A web application for buying & selling of Skin & Hair oil products.",
-    tech_stack: "React, Css, Javascript, Api",
+    tech_stack: "Html, Css, Javascript, Api",
     github_url: "https://github.com/bigyanKumar/vedix.com",
     demo_url: "https://gleeful-kleicha-1a7fde.netlify.app/",
   },
@@ -25,7 +25,7 @@ export const ProjectList = [
     description: "An end to end clone of pharmeasy.com medicine and fitness products best-selling app",
     tech_stack: "Html, Css, Javascript,React,Redux,Libraries,Api ",
     github_url: "https://github.com/ahmadparvej/pharmeasy-clone",
-    demo_url: "https://relaxed-faloodeh-4bff55.netlify.app/",
+    demo_url: 'https://pharmeasy-clone-website.netlify.app',
   },
   // {
   //   img: "/images/oyo.png",
